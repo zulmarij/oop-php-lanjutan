@@ -49,9 +49,9 @@ $p = new Balok(5, 10, 2);
 echo "Volume: " . $p->hitungVolume() . "<br />";
 echo "Luas Permukaan: " . $p->hitungLuasPermukaan() . "<br />";
 
-// Lepas tanda komentar di bawah baris kode berikut
-// $p->panjang = 7;
-// $p->lebar = 3;
+// Pasang tanda komentar di bawah baris kode berikut
+$p->panjang = 7;
+$p->lebar = 3;
 
 $p->tinggi = 10;
 
