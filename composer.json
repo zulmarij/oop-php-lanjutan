@@ -1,0 +1,6 @@
+{
+    "require": {
+        "monolog/monolog": "^2.2",
+        "danielstjules/stringy": "^3.1"
+    }
+}

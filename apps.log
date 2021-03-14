@@ -1,0 +1,5 @@
+[2021-03-14T20:06:22.535778+07:00] MyLogging.WARNING: Memory low. Greater than 80%. [] []
+[2021-03-14T20:06:22.536223+07:00] MyLogging.ERROR: Time limit exceeded. [] []
+[2021-03-14T20:06:49.743045+07:00] MyLogging.WARNING: Memory low. Greater than 80%. [] []
+[2021-03-14T20:06:49.743405+07:00] MyLogging.ERROR: Time limit exceeded. [] []
+[2021-03-14T20:07:22.683619+07:00] MyLogging.WARNING: Memory low. Greater than 80%. [] []
