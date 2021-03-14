@@ -1,5 +1,4 @@
 <?php
-
 // require "Autoloading/classA.php";
 // require "Autoloading/classB.php";
 

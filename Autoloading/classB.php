@@ -1,5 +1,4 @@
 <?php
-
 class classB
 {
     public function showMessage()
